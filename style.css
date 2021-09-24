@@ -1,0 +1,22 @@
+body {
+  background-color: blanchedalmond;
+  color: blue;
+  font-family: "Scheherazade New", serif;
+}
+
+.main-header {
+  color: black;
+  text-align: center;
+  font-size: xx-large;
+}
+.white-font {
+  color: black;
+  font-size: medium;
+}
+.beta {
+  color: blueviolet;
+  font-size: medium;
+}
+.betas {
+  font-size: medium;
+}
