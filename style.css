@@ -1,22 +1,55 @@
 body {
-  background-color: blanchedalmond;
-  color: blue;
-  font-family: "Scheherazade New", serif;
+  background-color: rgb(240, 234, 226);
+  color: black;
+  font-family: "Libre Baskerville", serif;
+  font-size: small;
+}
+.main-header {
+  color: rgb(65, 43, 43);
+  text-align: center;
+  font-size: large;
+  background-image: url(https://cdnb.artstation.com/p/assets/images/images/025/921/915/large/michelle-lee-img-1767.jpg?1587347610);
+  background-position: center;
+  height: 260px;
+}
+.picture {
+  height: 400px;
+  width: 300px;
+  position: relative;
 }
 
-.main-header {
-  color: black;
+.button {
+  background-color: whitesmoke;
+  padding: 10px, 20px;
+  border-radius: 25px;
+}
+.post {
+  background-color: rgb(211, 210, 210);
+  width: 20vw;
+  height: fit-content;
+  padding: 15px;
+  padding-bottom: 30px;
+  border-radius: 25px;
   text-align: center;
-  font-size: xx-large;
+  background-position: center;
+  font-size: small;
+  position: relative;
 }
-.white-font {
-  color: black;
-  font-size: medium;
+.person {
+  font-size: medium-large;
 }
-.beta {
-  color: blueviolet;
-  font-size: medium;
+.first {
+  left: 18vh;
 }
-.betas {
-  font-size: medium;
+.second {
+  left: 74vh;
+  bottom: 682px;
+}
+.thrid {
+  left: 130vh;
+  bottom: 1321px;
+}
+.ending {
+  text-align: center;
+  font-size: large;
 }
