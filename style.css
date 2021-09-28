@@ -1,7 +1,7 @@
 body {
   background-color: rgb(240, 234, 226);
   color: black;
-  font-family: 'Libre Baskerville', serif;
+  font-family: "Libre Baskerville", serif;
   font-size: small;
 }
 .main-header {
@@ -42,11 +42,11 @@ body {
   left: 18vh;
 }
 .second {
-  left: 75vh;
-  bottom: 682px
+  left: 74vh;
+  bottom: 682px;
 }
 .thrid {
-  left: 131vh;
+  left: 130vh;
   bottom: 1224px;
 }
 .ending {
